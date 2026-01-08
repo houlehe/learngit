@@ -2,4 +2,5 @@ Git is a distributed version control system.
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes of files.
-git push -u origin main
+git push -u origin main.
+Creating a new branch is quick.
